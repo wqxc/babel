@@ -1,0 +1,1 @@
+通过命令 yarn build 来打包src/index.js 到lib/index.js中
